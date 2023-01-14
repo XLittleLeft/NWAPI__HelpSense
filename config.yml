@@ -1,27 +1,27 @@
 # Debug
-s74q_t_q_o_q8: true
-# Whether to open a card for Class-D personnel at the beginning
-u_jir5yv_d7: true
+tre5m_y1x6: true
+# Whether to give a card for Class-D personnel at the beginning of the round
+j_ud_wv2_s_xj: true
 # What card is given to Level D personnel?
-afx7klcnq: KeycardJanitor
+y1_c_s_s4i_x_m: KeycardJanitor
 # randomly brush the electromagnetic gun on the nine-tailed commander
-arcd_tv_a_h_d: true
+v_q_g_r_s_n_gu_o: true
 # Whether to open the service welcome
-jk_x01pmfc: true
+o_u_aqx_md_dj: true
 # Welcome message when players enter the server
-uc_l8_d0u_dg: Welcome% playername%~
+d8jm_m_s_o5_k: Welcome% playername%~
 # Welcome message display duration
-o_ock_q_pe0_p: 5
+d5_edox_ecl: 5
 # Open round end message
-g_z_lxuhi_s_i: true
+h_n_p_m_bx_cvv: true
 # round end message
-eeo6l_iu_p_z: The round is over! Don't leave, see you in the next game.
+yhhk_u_j_big: The round is over! Don't leave, see you in the next game.
 # infinite ammo
-dvhj_h4_v0s: true
+o_a_c_jy_p6_b4: true
 # Enable modifying SCP blood volume system
-pcx_lj4mv_f: true
+x_ul8kkm_t_m: true
 # SCP173, SCP939, SCP049, SCP049-2, SCP096, SCP106 blood volume
-r_u_j4_v3a_dh:
+av_as_f1_df_m:
 - 4000
 - 2400
 - 2000
@@ -29,44 +29,42 @@ r_u_j4_v3a_dh:
 - 2500
 - 2000
 # Clear the body
-f_jghh3_qpc_p: true
+q_f_i4424x2d: true
 # Enable. bc and. c chat system
-d15hctvm3_z: true
+y_sq4_q_jtybv: true
 # Enable player feedback management system
-aj_rhf2o_tj4: true
+ce_y4c_l_g_y_l9: true
 # Enable player self-rescue system
-r_g_kh_psbx_no: false
-# How long will a person's chat information be displayed/s
-iu_oh_kpgg_s_j: 4
+s_xn4ou_w_cm_h: 4
 # Enable lazy person system
-e_i1hp_s_n_a_so: true
+hw_k4_zbv_z_pj: true
 # Valid for doors of SCP
-v_oih_gg98l1: true
+p_q_r4_ty2j_d_c: true
 # also valid for cabinet
-g_c_yh_r_lmb7l: true
+ywa46i0k_xq: true
 # also valid for electric board
-k_z_zhv_y_twd_w: true
+d_m64_p_w_x_wfm: true
 # If the player doesn't work in the dog's fart
-o_n4hww9_c67: true
+o024hnm2k_k: true
 # Please open this system if it doesn't work
-i8_vh_cip_t_w_g: true
+kp642_e_pc9_i: true
 # Valid for normal door
-m3_ah_sj_i2n_d: true
+ao_a4w_um_wqu: true
 # SCP-703
-do_vhn_pf6kg: true
+kr_b4yc9_m3d: true
 # How often to give 703 items
-iu_gh_v_e_y_me_g: 4
+dik47_bhs_y_d: 4
 # SCP-029
-d6_zh5_k_mj2v: true
+pj_f4_k_y_ec6_w: true
 # Chaos Leader
-e_r_dho_j8bee: true
+r_j_q4_d_bg_w67: true
 # Enable the changeable security team
-ls_lh9ef_jkt: true
+s4_m4_i_z_a6j_q: true
 # Enable server scheduled broadcast
-bo_ihabxi_h_h: true
+g3_f4_l_ih_lu_j: true
 # How often does the server broadcast regularly
-au9h_iqlwl_p: 5
+d_lx4_a6_lx_v6: 5
 # How long will the server display the scheduled broadcast
-gh4hb_cgk_tn: 5
+l_ba4n_s7_g9b: 5
 # Server Broadcast Text
-mrxhz37hc_r: Server Broadcast
+b3_w4uni_i_j_x: Server Broadcast
