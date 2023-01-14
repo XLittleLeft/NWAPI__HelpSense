@@ -38,9 +38,14 @@ Items:KeycardContainmentEngineer,GunCOM18,Ammo9x19 30
 Chaos Leader:When chaos respawn, a random rifle soldier becomes the leader of chaos
 
 Get two SCP items and HID
+/////////////////////////////////
 
 Thanks list:
+
 moddedmcplayer#6877
+
 sssssssthedev#6134
+
 SrLicht#9292
+
 1312255201#3381
