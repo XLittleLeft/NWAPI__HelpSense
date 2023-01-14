@@ -3,10 +3,15 @@ A comprehensive plugin
 
 Function list:
 1.Give a keycard to a class-d at the beginning of round start
+
 2.Give HID to nine-tailed commander when temspawn
+
 3.Welcome player
+
 4.Round End info
+
 5.Infinite Ammo
+
 6.Change SCP's default HP
 7.Clear ragdolls when temspawn
 8.LazySystem*(just likeRemoteKeycard)*
