@@ -40,7 +40,7 @@ Chaos Leader:When chaos respawn, a random rifle soldier becomes the leader of ch
 Get two SCP items and HID
 /////////////////////////////////
 
-Thanks list:
+**Thanks list:**
 
 moddedmcplayer#6877
 
